@@ -2,7 +2,7 @@
 
 This is a guessing game written in Haskell.
 
-I wrote it for the University of Melborune class Declarative Programming.
+I wrote this during my studies for the University of Melborune class Declarative Programming.
 
 SecretChord is a two-player logical guessing game created for this project. You will not find any information about the game anywhere else, but it is a simple game and this specification will tell you all you need to know.
 

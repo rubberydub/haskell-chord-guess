@@ -32,11 +32,11 @@ Usage:
 
 Make with:
 
-  ghc -O2 --make Proj1Test.hs
+    ghc -O2 --make Proj1Test.hs
 
 Run with:
 
-  ./Proj1Test D1 A2 C3
+    ./Proj1Test D1 A2 C3
 
 (Or any other chord!)
 

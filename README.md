@@ -2,6 +2,8 @@
 
 This is a guessing game written in Haskell.
 
+I wrote it for the University of Melborune class Declarative Programming.
+
 SecretChord is a two-player logical guessing game created for this project. You will not find any information about the game anywhere else, but it is a simple game and this specification will tell you all you need to know.
 
 For a SecretChord game, one player will be the composer and the other is the performer. The composer begins by selecting a three-pitch musical chord, where each pitch comprises a musical note, one of A, B, C, D, E, F, or G, and an octave, one of 1, 2, or 3. This chord will be the target for the game. The order of pitches in the target is irrelevant, and no pitch may appear more than once. This game does not include sharps or flats, and no more or less than three notes may be included in the target.
@@ -37,3 +39,5 @@ Run with:
   ./Proj1Test D1 A2 C3
 
 (Or any other chord!)
+
+franzneulistcarroll@gmail.com
